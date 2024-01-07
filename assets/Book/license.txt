@@ -1,0 +1,11 @@
+Model Information:
+* title:	Livros Antigos | Old Books
+* source:	https://sketchfab.com/3d-models/livros-antigos-old-books-8430d8296eb34a0d9602158f2c9a16f3
+* author:	diogotdias (https://sketchfab.com/diogotdias)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Livros Antigos | Old Books" (https://sketchfab.com/3d-models/livros-antigos-old-books-8430d8296eb34a0d9602158f2c9a16f3) by diogotdias (https://sketchfab.com/diogotdias) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
