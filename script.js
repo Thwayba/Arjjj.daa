@@ -31,13 +31,13 @@ var models = [
         url: './assets/Machine/scene.gltf',
         scale: '0.2 0.2 0.2',
         rotation: '0 180 0',
-        info: 'Machine, Lv. 80, HP 100/100',
+        info: 'Machine, Lv. 80, HP 10/10',
     },
     {
         url: './assets/Book/scene.gltf',
         scale: '0.08 0.08 0.08',
         rotation: '0 180 0',
-        info: 'Book, Lv. 99, HP 150/150',
+        info: 'Book, Lv. 99, HP 15/15',
     },
 ];
 
